@@ -1,2 +1,2 @@
-from module1 import validator as val
-print(val("allah","integer"))
+from module1 import validator
+print(validator("allah ","str"))
